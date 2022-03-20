@@ -1,4 +1,5 @@
 This is an end to end project on naive Bayes Classifier.
+This project deals with text classification.
 ![image](https://user-images.githubusercontent.com/88799249/159062206-26be59e7-756d-48fa-b5c0-d2db4a35352f.png)
 
 # Text-classification-by-Naive-Bayes
