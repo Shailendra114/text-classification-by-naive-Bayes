@@ -1,4 +1,4 @@
-This is an end to end project on naive Bayes Classifier.
+This is an end to end project machine learning project on naive Bayes Classifier.
 This project deals with text classification using naive Bayes Classifier algorithm.
 ![image](https://user-images.githubusercontent.com/88799249/159062206-26be59e7-756d-48fa-b5c0-d2db4a35352f.png)
 
